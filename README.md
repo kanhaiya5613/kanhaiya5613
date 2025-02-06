@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kanhaiya5613
 - 👀 I’m interested in  full stack web-devlopement
-- 🌱 I’m currently learning jawa script
+- 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kk7077574@gmail.com
 - 😄 Pronouns: ...
