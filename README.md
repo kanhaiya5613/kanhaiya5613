@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kanhaiya5613
-- 👀 I’m interested in  full stack web-devlopement
+- 👋 Hi, I’m kanhaiya
+- 👀 I’m interested in  full stack web-devlopement and data science
 - 🌱 I’m currently learning Backend
-- 📫 How to reach me kk7077574@gmail.com
+- 📫 
 
 
 <!---
