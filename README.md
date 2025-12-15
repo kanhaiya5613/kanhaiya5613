@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi 👋, I'm Kanhaiya Kumar  <br>🎓 Computer Science student  <br><br>🌐 Web Development:<br>- Frontend: HTML, CSS, JavaScript<br>- Backend: Learning Java-based backend development<br><br>☕ Java:<br>- Core Java fundamentals<br>- Object-Oriented Programming (OOPs)<br>- Problem solving using Java<br><br>📚 Also learning:<br>- Data Structures & Algorithms<br>- Core CS subjects for strong fundamentals<br>💻 Strong interest in Data Structures & Algorithms <br>🚀 Goal:<br>To become a skilled Full-Stack Developer and Java Engineer, building real-world applications with clean and efficient code.<br>  
+ ## Hi 👋, I'm Kanhaiya Kumar  <br><br>🎓 Computer Science student  <br>🌐 Web Development<br>☕ Java<br>To become a skilled Full-Stack Developer and Java Engineer, building real-world applications with clean and efficient code.<br>  
 
 
 ## 🌐 Socials:
@@ -11,6 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=kanhaiya5613&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kanhaiya5613&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanhaiya5613&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kanhaiya5613&limit=5&theme=dark&combine_all_yearly_contributions=true)
