@@ -1,5 +1,5 @@
 # 💫 About Me:
- ## Hi 👋, I'm Kanhaiya Kumar  <br><br>🎓 Computer Science student  <br>🌐 Web Development<br>☕ Java<br>To become a skilled Full-Stack Developer and Java Engineer, building real-world applications with clean and efficient code.<br>  
+ ## Hi 👋, I'm Kanhaiya Kumar  <br><br>🎓 Computer Science student  <br>🌐 Web Developer<br>☕ Java<br>To become a skilled Full-Stack Developer, building real-world applications with clean and efficient code.<br>  
 
 
 ## 🌐 Socials:
@@ -19,5 +19,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kanhaiya5613&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
