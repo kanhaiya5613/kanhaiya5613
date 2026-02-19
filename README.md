@@ -1,5 +1,5 @@
 # 💫 About Me:
- ## Hi 👋, I'm Kanhaiya Kumar  <br><br>🎓 Computer Science student  <br>🌐 Web Developer<br>☕ Java<br>To become a skilled Full-Stack Developer, building real-world applications with clean and efficient code.<br>  
+ ## Hi 👋, I'm Kanhaiya Kumar  <br><br>🎓 Computer Science student  <br>🌐 Fullstack Web Developer<br>☕ Java<br>To become a skilled Full-Stack Developer, building real-world applications with clean and efficient code.<br>  
 
 
 ## 🌐 Socials:
